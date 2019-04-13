@@ -1,4 +1,4 @@
-# Minist-Database
+#Minist Dataset
 Analyzing Mininst database using Convlution Neural Network
 
 #WebScraping
