@@ -2,4 +2,6 @@
 Analyzing Mininst database using Convlution Neural Network
 
 #WebScraping
-#Finding state, union territory capitals in India
+Finding state, union territory capitals in India
+
+#WebScraping and Analyzing SLC data
