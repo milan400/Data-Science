@@ -1,4 +1,7 @@
 #Minist Dataset
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/569d36fe8c164540abe5f6f155b74a61)](https://app.codacy.com/app/milan400/Data-Science?utm_source=github.com&utm_medium=referral&utm_content=milan400/Data-Science&utm_campaign=Badge_Grade_Dashboard)
+
 Analyzing Mininst database using Convlution Neural Network
 
 #WebScraping
